@@ -1,0 +1,17 @@
+.bg {
+  background-image: url("../../dist/img/bg.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.btn-cs-primary {
+  background-color: #eaf4fe;
+  color: #0047b9;
+}
+
+.btn-cs {
+  color: #0047b9;
+}
